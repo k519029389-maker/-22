@@ -1,0 +1,8 @@
+{
+  "name": "Copy of 资料（学生版本）",
+  "description": "A high-fidelity educational management platform featuring course planning and a comprehensive AI-powered materials library drawer.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
